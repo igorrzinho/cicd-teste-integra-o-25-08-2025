@@ -7,7 +7,7 @@ const subtract = (a,b)=>{
 }
 
 const mutiply = (a,b)=>{
-    return a+b
+    return a*b
 }
 const divide=(a,b)=>{
     return a/b
